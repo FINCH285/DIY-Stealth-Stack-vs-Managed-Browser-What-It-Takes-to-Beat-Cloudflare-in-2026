@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+results/
+archive/
+patchright_direct.py
+*.lock
+.benchmark.lock
